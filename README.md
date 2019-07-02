@@ -57,6 +57,8 @@ npm install express body-parser mongoose passport bcryptjs passport-jwt validato
 `--save` is not required to be typed since after node v5+ release all the packages are automatically saved inside `package.json`
 
 ## server.js
+![GitHub top language](https://img.shields.io/github/languages/top/S-ayanide/BigStack.svg)
+
 This is the primary end point of the application. This javaScript file handles the *Strategies* as well as *routes*.
 
 It creates a running connection with Mongo DB and displays a message in the terminal on which port the web server is currently running and also if Mongo DB is successfully connected or not.
