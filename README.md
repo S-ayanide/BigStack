@@ -23,6 +23,8 @@ To install Node.js and NPM, use any of the [official Node.js installers](https:/
 Create a project directory named `Bigstack` to hold your application, and make that your working directory.
 Use the `npm init` command to create a `package.json` file for your application.
 
+Inside `package.json` set the `'main'` to `"server.js"` as that is going to be our primary end point of the application.
+
 ## Dependencies Used
 * [Express](https://expressjs.com/)
 * [Body Parser](https://www.npmjs.com/package/body-parser)
