@@ -31,6 +31,12 @@ Install **nodemon** as a dependency of your Node.js application:
 ```
 npm install nodemon
 ```
+To make nodemon recognize the entry point of our application we need to map it with our main javaScript file. To do that open `package.json` and add the following line, after main:
+```
+"scripts": {
+    "start": "node server.js"
+ }
+```
 
 ## Dependencies Used
 * [Express](https://expressjs.com/)
