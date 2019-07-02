@@ -63,6 +63,7 @@ It connects our application to the RESTful API through custom routes.
 
 ## Schemas
 In this project we have three schemas namely Profile Schema, Question Schema and User Schema.(They can be modified according to the developer as per what details they want to take from the Users).
+
 **Profile Schema** --
 It takes neccessary informations like *username* and *launguges*, other information are optional. The user data is fetched from Mongo DB by their Object ID :
 ```
@@ -71,7 +72,7 @@ user: {
         ref: "myPerson"
     }
 ```
-Where `myPerson` is the Mongoose Model for the Profile Schema.
+Where `myPerson` is the Mongoose Model for the User Schema.
 
 **Question Schema** --
 In this Schema compulsory attributes are *textone*, *texttwo* and *answers.text*. Again the user data is fetched from Mongo DB to only allow the logged in users to answer questions and also to upvote.
@@ -81,7 +82,7 @@ user: {
         ref: "myPerson"
     }
 ```
-Where `myPerson` is the Mongoose Model for Question Schema.
+Where `myPerson` is the Mongoose Model for User Schema.
 
 **User Schema** --
 This Schema is used to register users for the first time. It has necessary attributes like *name*, *email*, *password* and *gender*
