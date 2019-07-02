@@ -1,5 +1,5 @@
 # BigStack
-![Read the Docs](https://img.shields.io/readthedocs/node.svg) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/BigStack.svg)](https://github.com/S-ayanide/BigStack/issues)
+![Read the Docs](https://img.shields.io/readthedocs/node.svg) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/BigStack.svg)](https://github.com/S-ayanide/BigStack/issues) ![GitHub top language](https://img.shields.io/github/languages/top/S-ayanide/BigStack.svg)
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/BigStack.svg?style=social)](https://github.com/S-ayanide/BigStack/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/BigStack.svg?style=social)](https://github.com/S-ayanide/BigStack/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/S-ayanide/BigStack.svg)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/BigStack.svg?style=for-the-badge)](https://github.com/S-ayanide/BigStack/blob/master/LICENSE)
 
@@ -19,7 +19,9 @@ To run this project on your system you need to meet these criterias:
 
 To install Node.js and NPM, use any of the [official Node.js installers](https://nodejs.org/en/download/) provided for your operating system.
 
-## Initialization
+## Initialization 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/S-ayanide/BigStack.svg) ![Read the Docs](https://img.shields.io/readthedocs/node.svg)
+
 Create a project directory named `Bigstack` to hold your application, and make that your working directory.
 Use the `npm init` command to create a `package.json` file for your application.
 
