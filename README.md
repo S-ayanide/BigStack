@@ -16,8 +16,15 @@ This project is completely deployable and can be used with any FrontEnd. It uses
 * [Body Parser](https://www.npmjs.com/package/body-parser)
 * [Mongoose](https://mongoosejs.com/)
 * [Passport](https://www.npmjs.com/package/passport)
+* [Passport-JWT](https://www.npmjs.com/package/passport-jwt)
 * [Bycrypt.js](https://www.npmjs.com/package/bcryptjs)
+* [Validator](https://www.npmjs.com/package/validator)
 * [JSON Web Tokens](https://www.npmjs.com/package/jsonwebtoken)
+
+To install these dependencies simply type this in the terminal:
+```
+npm install express body-parser mongoose passport bcryptjs passport-jwt validator jsonwebtoken
+```
 
 ## NOTE:
 This project is subject to change by the developer and is still in development
