@@ -3,21 +3,14 @@
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://github.com/S-ayanide/Flutter-GermanNumbers/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-GermanNumbers.svg?style=social)](https://github.com/S-ayanide/Flutter-GermanNumbers/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-GermanNumbers.svg?style=plastic)](https://github.com/S-ayanide/Flutter-GermanNumbers/blob/master/LICENSE)
 
-A Node JS Project 
+A Node JS Project which is a miniature model of Stack Overflow Backend where users can post questions, answers and also upvote the answers. The users have login feature and has to be authenticated to upvote an answer. User Data is fetched from Mongo DB.
 ### 👉 If you like this repo then please give it a ⭐️
 
-## Short Description
-This Flutter app converts the English number from 1 to 10. After reaching 10 it again comes back to one. It has two buttons, both of which does the same job and any one or both could you used. 📳
+## Description
+A Node JS Project where the User gets option to Login, all the user details are stored in Mongo DB. This application has features to post questions in the forum where users can answer them or even upvote them. For the answer to get upvoted the user Object ID has to be fetched from Mongo DB, which also means that the user has to be logged in/authenticated. 
 
-## Screenshots
-<img src="images/Capture1.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/KdBs9k4NdQyRBDEu4e/giphy.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/>
-     
+This project is completely deployable and can be used with any FrontEnd. It uses RESTful API and explicitly takes advantages of HTTP methodologies.
+
 ## NOTE:
 This project is subject to change by the developer and is still in development
 
