@@ -25,6 +25,7 @@ To install these dependencies simply type this in the terminal:
 ```
 npm install express body-parser mongoose passport bcryptjs passport-jwt validator jsonwebtoken
 ```
+`--save` is not required to be typed since after node v5+ release all the packages are automatically saved inside `package.json`
 
 ## NOTE:
 This project is subject to change by the developer and is still in development
