@@ -11,6 +11,18 @@ A Node JS Project where the User gets option to Login, all the user details are 
 
 This project is completely deployable and can be used with any FrontEnd. It uses RESTful API and explicitly takes advantages of HTTP methodologies.
 
+## Prerequisites
+To run this project on your system you need to meet these criterias:
+* Basic understanding of Node.js and JavaScript.
+* A terminal app for MacOS and Linux or PowerShell for Windows.
+* Node.js v8+ and a Node.js package manager installed locally.
+
+To install Node.js and NPM, use any of the [official Node.js installers](https://nodejs.org/en/download/) provided for your operating system.
+
+## Initialization
+Create a project directory named `Bigstack` to hold your application, and make that your working directory.
+Use the `npm init` command to create a `package.json` file for your application.
+
 ## Dependencies Used
 * [Express](https://expressjs.com/)
 * [Body Parser](https://www.npmjs.com/package/body-parser)
