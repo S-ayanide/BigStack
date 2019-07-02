@@ -12,12 +12,12 @@ A Node JS Project where the User gets option to Login, all the user details are 
 This project is completely deployable and can be used with any FrontEnd. It uses RESTful API and explicitly takes advantages of HTTP methodologies.
 
 ## Dependencies Used
-[Express](https://expressjs.com/)
-[Body Parser](https://www.npmjs.com/package/body-parser)
-[Mongoose](https://mongoosejs.com/)
-[Passport](https://www.npmjs.com/package/passport)
-[Bycrypt.js](https://www.npmjs.com/package/bcryptjs)
-[JSON Web Tokens](https://www.npmjs.com/package/jsonwebtoken)
+* [Express](https://expressjs.com/)
+* [Body Parser](https://www.npmjs.com/package/body-parser)
+* [Mongoose](https://mongoosejs.com/)
+* [Passport](https://www.npmjs.com/package/passport)
+* [Bycrypt.js](https://www.npmjs.com/package/bcryptjs)
+* [JSON Web Tokens](https://www.npmjs.com/package/jsonwebtoken)
 
 ## NOTE:
 This project is subject to change by the developer and is still in development
