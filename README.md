@@ -25,6 +25,13 @@ Use the `npm init` command to create a `package.json` file for your application.
 
 Inside `package.json` set the `'main'` to `"server.js"` as that is going to be our primary end point of the application.
 
+Instead of using the `node` command to run the application, we'll use, a tool called **nodemon** that monitors our application and automatically restarts the server when source code changes. With `node`, we'd have to restart the server manually when changes are made.
+
+Install **nodemon** as a dependency of your Node.js application:
+```
+npm install nodemon
+```
+
 ## Dependencies Used
 * [Express](https://expressjs.com/)
 * [Body Parser](https://www.npmjs.com/package/body-parser)
