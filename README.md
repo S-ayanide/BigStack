@@ -41,6 +41,8 @@ To make nodemon recognize the entry point of our application we need to map it w
 ```
 
 ## Dependencies Used
+![node](https://img.shields.io/node/v/passport.svg?color=orange&label=passport) ![node](https://img.shields.io/node/v/express.svg?color=yellow&label=express) ![node](https://img.shields.io/node/v/jsonwebtoken.svg?color=blue&label=json%20web%20token) ![node](https://img.shields.io/node/v/body-parser.svg?color=green&label=body%20parser) ![node](https://img.shields.io/node/v/mongoose.svg?color=blue&label=Mongoose) ![node](https://img.shields.io/node/v/validator.svg?color=orange&label=Validator)
+
 * [Express](https://expressjs.com/)
 * [Body Parser](https://www.npmjs.com/package/body-parser)
 * [Mongoose](https://mongoosejs.com/)
